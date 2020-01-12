@@ -1,0 +1,65 @@
+body{
+    font-family:"Open Sans"; 
+ }
+ #title{
+     background-color:white;
+     color:black;
+ }
+ .container-fluid{
+     padding:0% 17%;
+ }
+ .heading{
+     font-family: "Open Sans";
+     font-size: 300rem;
+     line-height: 4; 
+ }
+ h3{
+     font-family:"Open Sans";
+     font-size:1.5rem;
+ }
+ p{
+     color:white;
+ 
+ }
+ .navbar-brand{
+     font-family:"Open Sans";
+     font-size:2.5 rem;
+     font-weight: bold;
+ }
+ .nav-item{
+     padding:0% 18px;
+ 
+ }
+ .navbar{
+     padding:0 0 4.5rem;
+ }
+ .title-image{
+     width:50%;
+ }
+ .nav-link{
+     font-size:1.2rem;
+     
+ }
+ .buy-button{
+     margin:5% 3% 0%
+ }
+ .learn-button{
+     margin:5% 3% 0%
+ }
+ #features{
+     padding:7% 15%;
+     background-color: black;
+ }
+ .feature-box{
+    text-align:center ;
+    padding:5%;
+ }
+ .icon{
+     color:lavender;
+     margin-bottom:1rem;
+ 
+     }
+     .icon:hover{
+         color:white;
+     }
+ 
